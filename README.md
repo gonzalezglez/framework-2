@@ -1,2 +1,2 @@
 #Framework#
-##Ejemplo de framework básico##
+##Ejemplo de framework MVC##
